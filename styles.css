@@ -11,32 +11,32 @@ body {
   min-height: 100vh;
   font-family: Arial, sans-serif;
   padding: 20px;
-  background-color: #f8f9fa;
+  background-color: #F2EFE7;
 }
 
 header {
-  background: #333;
-  color: white;
+  background: #005B4C;
+  color: #DFE0DF;
   padding: 1rem;
   text-align: center;
 }
 
 nav {
-  background: #f4f4f4;
+  background: #DFE0DF;
   padding: 1rem;
 }
 
 main {
   display: flex;
   flex: 1;
-  background: white;
+  background: #DFE0DF;
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 aside {
-  background: #f4f4f4;
+  background: #DFE0DF;
   padding: 1rem;
   border-left: 1px solid #ccc;
 }
@@ -74,13 +74,13 @@ footer {
 
 /* Indicadores de etiquetas semánticas */
 nav {
-  border: 3px solid green;
+  border: 3px solid #DCB455;
 }
 
 main {
-  border: 3px solid blue;
+  border: 3px solid #856700;
 }
 
 aside {
-  border: 3px solid orange;
+  border: 3px solid #00b3a1;
 }
